@@ -1,0 +1,1 @@
+print("\t'Línea 1\t\nLínea 2\t\nLínea 3' ")
